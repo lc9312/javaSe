@@ -30,5 +30,6 @@ public class BubbuleSortDemo01 {
         // 打印排序后的数组
         System.out.println("======================================");
         System.out.println(Arrays.toString(arr));
+        System.out.println("冒泡排序第二个版本");
     }
 }
