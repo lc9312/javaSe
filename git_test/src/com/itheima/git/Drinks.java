@@ -5,5 +5,7 @@ public class Drinks {
         System.out.println("1板爽歪歪");
         System.out.println("2板爽歪歪");
         System.out.println("3板爽歪歪");
+        System.out.println("4板爽歪歪");
+        System.out.println("5板爽歪歪");
     }
 }
